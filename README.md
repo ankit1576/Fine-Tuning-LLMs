@@ -1,6 +1,10 @@
 
 # Project: Text Summarization and Text Classification
 
+
+https://github.com/user-attachments/assets/ed6a780c-f053-4e87-afb2-9bd2557a5c41
+
+
 ## Index:
 1. [Overview](#overview)
 2. [Main File: Text Summarization (Main-file-Finetune Google T5 on Billsum dataset.ipynb)](#main-file-text-summarization)
