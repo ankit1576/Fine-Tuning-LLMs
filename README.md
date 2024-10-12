@@ -1,18 +1,15 @@
-Here's the corrected structure of your project, with improvements in the index and overall format for clarity and consistency:
-
----
 
 # Project: Text Summarization and Text Classification
 
 ## Index:
 1. [Overview](#overview)
-2. [Main File: Text Summarization (Finetune Google T5 on Billsum dataset.ipynb)](#main-file-text-summarization)
+2. [Main File: Text Summarization (Main-file-Finetune Google T5 on Billsum dataset.ipynb)](#main-file-text-summarization)
    - [Steps](#steps)
    - [Challenges](#challenges)
    - [Usage](#usage)
    - [Results](#results)
    - [Open the File Directly](#open-text-summarization-file)
-3. [Secondary File: Text Classification (Fine tuning  distilbert-base-uncased with Imdb.ipynb)](#secondary-file-text-classification)
+3. [Secondary File: Text Classification (Secondary-File--Fine tuning  distilbert-base-uncased with Imdb.ipynb)](#secondary-file-text-classification)
    - [Features](#features)
    - [Instructions](#instructions)
    - [Output](#output)
