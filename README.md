@@ -58,7 +58,9 @@ To run the summarization task, follow these steps:
 The **finetuned model** delivers better-quality summaries than the non-finetuned model, as observed through the results.
 
 ### Open Text Summarization File
-[Link to the file](#) <!-- Add the actual link to your GitHub file here -->
+
+[Github Link to the file](https://github.com/ankit1576/Fine-Tuning-LLMs/blob/main/Main-file-finetune-google-t5-on-billsum-dataset.ipynb) <br>
+[Kaggle Link ](https://www.kaggle.com/code/ankitpandey1576/finetune-google-t5-on-billsum-dataset/edit/run/200534208)
 
 ---
 
@@ -95,12 +97,13 @@ The model provides accuracy metrics on the test dataset, evaluating its performa
 ![Screenshot 2024-10-12 024648](https://github.com/user-attachments/assets/7a4ae42c-d7ef-4a79-b1b4-bd9284806854)
 
 ### Open Text Classification File
-[Link to the file](#) <!-- Add the actual link to your GitHub file here -->
 
----
+[Github Link to the file](https://github.com/ankit1576/Fine-Tuning-LLMs/blob/main/Secondary-File--fine-tuning-distilbert-base-uncased-with-imdb.ipynb)<br>
+[Kaggle Link ](https://www.kaggle.com/code/ankitpandey1576/fine-tuning-distilbert-base-uncased-with-imdb/)
+
 
 ### Additional Notes
 
 The **Text Summarization** task is the main focus of this project, while the **Text Classification** file is included as a secondary demonstration. The text classification task serves as an additional reference for users interested in understanding how LLMs can be applied to sentiment analysis tasks.
 
----
+
