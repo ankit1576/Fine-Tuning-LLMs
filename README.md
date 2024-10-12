@@ -106,4 +106,6 @@ The model provides accuracy metrics on the test dataset, evaluating its performa
 
 The **Text Summarization** task is the main focus of this project, while the **Text Classification** file is included as a secondary demonstration. The text classification task serves as an additional reference for users interested in understanding how LLMs can be applied to sentiment analysis tasks.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey1576/)
 
